@@ -1,6 +1,10 @@
+![ViewCount](https://views.whatilearened.today/views/github/agavranis/IBM-Data-Science-Professional-Certificate.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/agavranis/IBM-Data-Science-Professional-Certificate?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/agavranis/IBM-Data-Science-Professional-Certificate?style=flat)
+
 # IBM-Data-Science-Professional-Certificate
 
-**About this Professional Certificate**
+## About this Professional Certificate
 
 Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills and experience. 
 
@@ -12,7 +16,7 @@ Upon successfully completing these courses, you will have built a portfolio of d
 
 In addition to earning a Professional Certificate from Coursera, you'll also receive a digital badge from IBM recognizing your proficiency in data science. 
 
-**Applied Learning Project**
+## Applied Learning Project (2021)
 
 This Professional Certificate has a strong emphasis on applied learning. Except for the first course, all other courses include a series of hands-on labs in the IBM Cloud that will give you practical skills with applicability to real jobs, including: 
 
